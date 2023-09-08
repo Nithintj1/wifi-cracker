@@ -44,7 +44,7 @@ sudo git clone https://github.com/Nithintj1/wifi-cracker
 ```
 4.Execute the script:
 ```bash
-  sudo python3 wifi cracker.py
+  sudo python3 wifi-cracker.py
 ```
 Feel free to explore the capabilities of this tool and use responsibly for security assessment and testing purposes.
 
