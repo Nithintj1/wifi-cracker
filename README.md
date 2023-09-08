@@ -28,7 +28,27 @@ This repository contains a collection of powerful tools for wireless network pen
 ## Installation
 ### Kali Linux / Ubuntu / Parrot OS
 1.Update package information and install Git:
+```bash
+  sudo apt-get update && apt-get install git
 
+```
+2.Clone the repository:
+```bash
+sudo git clone https://github.com/Nithintj1/wifi-cracker
+
+```
+3.Navigate to the directory:
+```bash
+  cd wifi-cracker
+
+```
+4.Execute the script:
+```bash
+  sudo python3 wifi cracker.py
+```
+Feel free to explore the capabilities of this tool and use responsibly for security assessment and testing purposes.
+
+**Note:** Unauthorized usage for malicious intent is strictly prohibited.
 
 
 
